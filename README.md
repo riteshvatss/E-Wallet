@@ -34,3 +34,6 @@ Make sure you have the following installed on your local development environment
 1. **Clone the repository**:
    ```bash
   install npm in both backend and frontend
+  and add your mongoose url in
+  backend/db/index.js file
+  
